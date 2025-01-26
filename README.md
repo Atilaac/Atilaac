@@ -2,7 +2,7 @@
 ### Hi, I'm <a href="https://www.aatila.com/" target="_blank">Achraf Atila</a> </samp>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/achrafatila/)
-![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)(https://scholar.google.com/citations?user=TTAujLUAAAAJ&hl=en)
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=TTAujLUAAAAJ&hl=en)
 
 
 **About me:** 
