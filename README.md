@@ -11,4 +11,4 @@ I am a computational material scientist focusing on amorphous materials. I am st
 
 **Research interests:** My research interests lie at the intersection of materials science and physics. Generally, I am interested in using atomistic simulations and data analysis tools to study and understand materials behavior under different conditions.
 
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/brunobritodev)](https://git.io/awesome-stats-card)
+[![Achraf Atila](https://awesome-github-stats.azurewebsites.net/user-stats/brunobritodev)](https://git.io/awesome-stats-card)
